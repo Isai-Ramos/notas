@@ -56,7 +56,7 @@
           </button>
         </div>
       </nav>
-      <h1  class="display-1">Visión</h1>
+      <h1 style="text-align:center;border:1px ; padding:8px;" class="display-1">Visión</h1>
       <p class="text-center">Ser un instituto tecnológico consolidado en su organización, infraestructura física,en sus funciones de docencia, investigación y extensionismo, con una oferta educativa de pertinencia, calidad y equidad, con programas académicos acreditados, con currículas flexibles que den respuesta a la sociedad de cara al siglo XXI, con un modelo educativo innovador, para que sus egresados representen una ventaja competitiva a nivel nacional e internacional.</p>
 
 

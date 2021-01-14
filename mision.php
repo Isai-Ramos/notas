@@ -56,7 +56,7 @@
           </button>
         </div>
       </nav>
-      <h1 style="text-align:center;border:1px dotted #000; padding:8px;" class="display-1">Misión</h1>
+      <h1 style="text-align:center;border:1px ; padding:8px;" class="display-1">Misión</h1>
       <p class="text-center">Formar profesionistas de excelencia, que contribuyan al desarrollo de la comunidad a través de la creación y aplicación de tecnologías, con ética de trabajo, creatividad y respeto a la naturaleza.</p>
 
 

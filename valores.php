@@ -56,7 +56,7 @@
           </button>
         </div>
       </nav>
-      <h1  class="display-1">Valores</h1>
+      <h1 style="text-align:center;border:1px ; padding:8px;" class="display-1">Valores</h1>
       <p class="text-center">El Instituto Tecnológico de Culiacán, como institución de educación superior considera que para el buen desarrollo armónico y el cumplimiento de su misión, sus estudiantes y trabajadores deben de practicar los siguientes valores: Responsabilidad, trabajo en equipo, amor al trabajo, respeto a los demás, honestidad, compañerismo, lealtad, confianza, sinceridad y profesionalismo.</p>
 
 
