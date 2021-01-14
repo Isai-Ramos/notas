@@ -56,42 +56,7 @@
           </button>
         </div>
       </nav>
-      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="img/tec.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="img/galgo.jpg" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="img/convocatoria.jpg" class="d-block w-100" alt="...">
-          </div>
-        </div>
-      </div>
-      <h1 style="text-align: center; padding-top: 5px;" class="display-2">Por una juventud integrada al desarrollo de México</h1>
-
-      
-
-
-      <div  class="row align-items-center">
-        <div class="col">
-            <div class="card mb-3">
-                <img src="img/convocatoria.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Convocatoria</h5>
-                  <p class="card-text">Por un espacio 100% libre de humo</p>
-                  <p class="card-text"><small class="text-muted">INSTITUTO TECNOLOGICO DE TIJUANA</small></p>
-                </div>
-              </div>
-              
-        </div>
-        <div class="col">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/yJODNVyf6t8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        
-      </div>
-      
+     
     
 
 
