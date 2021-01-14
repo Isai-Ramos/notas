@@ -23,7 +23,7 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+          <a class="nav-link active" aria-current="page" href="main.php">Inicio</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php">Alumnos</a>
@@ -34,9 +34,9 @@
             Conoce nuestra
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Misión</a></li>
-            <li><a class="dropdown-item" href="#">Visión</a></li>
-            <li><a class="dropdown-item" href="#">Valores</a></li>
+            <li><a class="dropdown-item" href="mision.php">Misión</a></li>
+            <li><a class="dropdown-item" href="vision.php">Visión</a></li>
+            <li><a class="dropdown-item" href="valores.php">Valores</a></li>
             
           </ul>
         </li>
