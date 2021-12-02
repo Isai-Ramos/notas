@@ -35,7 +35,7 @@
 
             <form method="POST" action="registrarProceso.php">
               <div class="form-floating mb-3">
-                <input type="text" name="txtCorreo" class="form-control"  placeholder="Correo">
+                <input type="email" name="txtCorreo" class="form-control"  placeholder="Correo">
                 <label for="floatingInput">Correo:</label>
               </div>
               <div class="form-floating mb-3">

@@ -1,11 +1,14 @@
 <?php  
 	session_start();
-	if (!isset($_SESSION['nombre'])) {
+	if (!isset($_SESSION['nombre'] )) {
 		header('Location: login.php');
 	}elseif(isset($_SESSION['nombre'])){
 		include 'model/conexion.php';
 		$sentencia = $bd->query("SELECT * FROM alumno;");
 		$alumnos = $sentencia->fetchAll(PDO::FETCH_OBJ);
+
+		//prueba tabla usuarios]
+		
 		//print_r($alumnos);
 	}else{
 		echo "Error en el sistema";
@@ -24,6 +27,7 @@
 <body>
 	<center>
 		<h1>Bienvenido: <?php echo $_SESSION['nombre'] ?></h1>
+		<h1>Bienvenido: <?php echo $nombreC['completo'] ?></h1>
 		<a href="cerrar.php">Cerrar Sesión</a>
 		<h3>Lista de Alumnos</h3>
 		<table>

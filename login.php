@@ -1,7 +1,7 @@
 <?php 
 	session_start();
 	if (isset($_SESSION['nombre'])) {
-		header('Location: index.php');
+		header('Location: infoU.php');
 	}
 ?>
 
@@ -34,7 +34,7 @@
             <form method="POST" action="loginProceso.php">
               <div class="form-floating mb-3">
                 <input type="text" name="txtUsu" class="form-control"  placeholder="Usuario">
-                <label for="floatingInput">Usuario</label>
+                <label for="floatingInput">Correo</label>
               </div>
               <div class="form-floating mb-3">
                 <input type="password" name="txtPass" class="form-control" placeholder="Contraseña">

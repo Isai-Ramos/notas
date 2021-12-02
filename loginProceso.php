@@ -7,12 +7,13 @@
 	CorreoU = ? and password_usu = ?;');
 	$sentencia->execute([$usuario, $contrasena]);
 	$datos = $sentencia->fetch(PDO::FETCH_OBJ);
-	//print_r($datos);
+	print_r($datos);
 
 	if ($datos === FALSE) {
 		header('Location: login.php');
 	}elseif($sentencia->rowCount() == 1){
 		$_SESSION['nombre'] = $datos->CorreoU;
-		header('Location: index.php');
+		$nombreC['completo'] = $datos->NombreCompleto;
+		header('Location: InfoU.php');
 	}
 ?>
