@@ -46,6 +46,7 @@
 
 
 <div class="izquierda" >
+<a href="main.html"  type="button" style=" margin: .3em .3em .3em .5em;" class="btn btn-light btn-lg" >Menu</a>
 <img class="imglogo  mx-auto d-block" src="img/usuario.png">
 <h1 class="display-4" style="text-align: center; padding-top: 0.3em; color:#FFFFFF;">Perfil</h1>
 
@@ -63,7 +64,7 @@
 						<h2 style="text-align: center; padding-top: 0.3em; color:#FFFFFF;" ><?php echo $dato->FechaU; ?></h2>
 						
 						
-						<a type="button" style=" margin: 2em 1em 2em 16em;" class="btn btn-secondary btn-lg" href="actualizarInfo.php?id=<?php echo $dato->id_usuario; ?>">Actualizar</a>
+						<a type="button" style=" margin: 2em 1em 2em 16em;" class="btn btn-light btn-lg" href="actualizarInfo.php?id=<?php echo $dato->id_usuario; ?>">Actualizar</a>
 					
 					<?php
 				}
@@ -72,11 +73,11 @@
 		
 
 
-<a href="cerrar.php"  type="button" style="text-align: center;" class="btn btn-secondary btn-lg" >Cerrar Sesión</a>
+<a href="cerrar.php"  type="button" style="text-align: center;" class="btn btn-light btn-lg" >Cerrar Sesión</a>
 </div>
 
 <div class="derecha" style="background: #FFFFFF;" >
-<h1 class="display-4" style="text-align: center; padding-top: 1em;">Preferencias de Escuela</h1>
+<h1 class="display-4" style="text-align: center; padding-top: 1em;"> Mejores universidades de Tijuana</h1>
 
 
 </div>
