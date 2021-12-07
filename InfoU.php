@@ -47,23 +47,23 @@
 
 <div class="izquierda" >
 <img class="imglogo  mx-auto d-block" src="img/usuario.png">
-<h1 class="display-4" style="text-align: center; padding-top: 1em;">Perfil</h1>
+<h1 class="display-4" style="text-align: center; padding-top: 0.3em; color:#FFFFFF;">Perfil</h1>
 
 
 			<?php 
 				foreach ($campos as $dato) {
 					?>
 					
-				        <h1>Correo</h1>
+				        <h1 style="text-align: center; padding-top: 1em; color:#FFFFFF;" >Correo:</h1>
 				
-						<h2><?php echo $dato->CorreoU; ?></h2>
-                        <h1>Nombre Completo</h1>
-						<h2><?php echo $dato->NombreCompleto; ?></h2>
-                        <h1>Fecha</h1>
-						<h2><?php echo $dato->FechaU; ?></h2>
+						<h2 style="text-align: center; padding-top: 0.3em; color:#FFFFFF;" ><?php echo $dato->CorreoU; ?></h2>
+                        <h1 style="text-align: center; padding-top: 0.3em; color:#FFFFFF;" >Nombre Completo:</h1>
+						<h2 style="text-align: center; padding-top: 0.3em; color:#FFFFFF;" ><?php echo $dato->NombreCompleto; ?></h2>
+                        <h1 style="text-align: center; padding-top: 0.3em; color:#FFFFFF;" >Fecha de nacimiento:</h1>
+						<h2 style="text-align: center; padding-top: 0.3em; color:#FFFFFF;" ><?php echo $dato->FechaU; ?></h2>
 						
 						
-						<h1><a href="actualizarInfo.php?id=<?php echo $dato->id_usuario; ?>">Actualizar</a></h1>
+						<a type="button" style=" margin: 2em 1em 2em 16em;" class="btn btn-secondary btn-lg" href="actualizarInfo.php?id=<?php echo $dato->id_usuario; ?>">Actualizar</a>
 					
 					<?php
 				}
@@ -72,10 +72,10 @@
 		
 
 
-<a href="cerrar.php">Cerrar Sesión</a>
+<a href="cerrar.php"  type="button" style="text-align: center;" class="btn btn-secondary btn-lg" >Cerrar Sesión</a>
 </div>
 
-<div class="derecha">
+<div class="derecha" style="background: #FFFFFF;" >
 <h1 class="display-4" style="text-align: center; padding-top: 1em;">Preferencias de Escuela</h1>
 
 
