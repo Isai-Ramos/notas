@@ -23,6 +23,11 @@
 <head>
 	<title>Lista de alumnos</title>
 	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet" >
 </head>
 <body>
 	<center>
@@ -30,7 +35,8 @@
 		<h1>Bienvenido: <?php echo $nombreC['completo'] ?></h1>
 		<a href="cerrar.php">Cerrar Sesión</a>
 		<h3>Lista de Alumnos</h3>
-		<table>
+		<table class="table" >
+			<thead class="thead-dark" >
 			<tr>
 				<td>Código</td>
 				<td>Apellido paterno</td>
@@ -42,7 +48,7 @@
 				<td>Editar</td>
 				<td>Eliminar</td>
 			</tr>
-
+			</thead>
 			<?php 
 				foreach ($alumnos as $dato) {
 					?>

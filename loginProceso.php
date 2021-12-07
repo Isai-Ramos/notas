@@ -13,7 +13,7 @@
 		header('Location: login.php');
 	}elseif($sentencia->rowCount() == 1){
 		$_SESSION['nombre'] = $datos->CorreoU;
-		$nombreC['completo'] = $datos->NombreCompleto;
+	
 		header('Location: InfoU.php');
 	}
 ?>

@@ -33,7 +33,7 @@
 
             <form method="POST" action="loginProceso.php">
               <div class="form-floating mb-3">
-                <input type="text" name="txtUsu" class="form-control"  placeholder="Usuario">
+                <input type="email" name="txtUsu" class="form-control"  placeholder="Usuario">
                 <label for="floatingInput">Correo</label>
               </div>
               <div class="form-floating mb-3">
