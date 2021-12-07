@@ -16,7 +16,7 @@
 	}
 
     
-   
+	
     
 	
 ?>
@@ -63,7 +63,7 @@
 						<h2><?php echo $dato->FechaU; ?></h2>
 						
 						
-						
+						<h1><a href="actualizarInfo.php?id=<?php echo $dato->id_usuario; ?>">Actualizar</a></h1>
 					
 					<?php
 				}
@@ -79,19 +79,6 @@
 <h1 class="display-4" style="text-align: center; padding-top: 1em;">Preferencias de Escuela</h1>
 
 
-	<select name="OS">
-   <option value="1">1.CONALEP - Colegio Nacional de Educación Profesional</option> 
-   <option value="2">2.IPN - Instituto Politécnico Nacional</option> 
-   <option value="3">3.UABC - Universidad Autónoma de Baja California</option>
-   <option value="4">4.Universidad Tecnológica de Tijuana - UTT -</option> 
-   <option value="5">5.UPN - Universidad Pedagógica Nacional</option> 
-   <option value="6">6.ITT - Instituto Tecnológico de Tijuana</option>
-   
-</select>
-
-
-
-		
 </div>
 
     </section>
