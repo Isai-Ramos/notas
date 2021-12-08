@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
-    <title>ITT</title>
+    <title>CUT</title>
   </head>
 
   
@@ -52,18 +52,26 @@
     <div class="row">
       <div class="col">
         
-        <p class="lead" style="text-align: center;">El Instituto Tecnológico de Tijuana forma parte del  Tecnológico Nacional de México que tiene presencia en toda la República Mexicana. Es dependiente, al igual que varios institutos 
-        tecnológicos, orgánica y funcionalmente del Gobierno Federal a través de la Dirección General de Educación Superior Tecnológica y a la Subsecretaría de Educación Superior, ambas pertenecientes a la SEP.
-Su función es brindar servicios de educación superior a nivel licenciatura, maestría y doctorado en base a las necesidades de talento humano en la región. Entre sus dos campus se ofrece un total de 13 licenciaturas e ingenierías, 4 maestrías y 2 doctorados, siendo una fuente de talento a nivel profesional y científico en la región.
+        <p class="lead" style="text-align: center;">La Universidad de Tijuana, acreditada por sus altos estándares de calidad, es una
+institución de educación superior de excelencia académica que propicia el
+desarrollo cultural y educativo de la región. Con la participación de científicos y
+educadores tanto nacionales como internacionales, ocupa una posición de
+vanguardia en la generación de conocimientos para la formación de profesionales
+tolerantes, solidarios, democráticos, con capacidad de liderazgo y de compromiso
+con su entorno social.
+Entre algunas de sus carreras podrás encontrar Licenciatura en Administración, Arquitectura, Ingeniería Industrial y Nutrición. 
 </p>   </div>
       <div class=" col">
-        <img  src="img/itt.png" class="rounded float-right" alt="..."> 
+        <img  src="img/CUT.jpg" class="rounded float-right" alt="..."> 
         
       </div>
 
       
-      <h3 class="lead"  style="text-align: center;padding-top:2em;"  ><a  href="https://www.tijuana.tecnm.mx/oferta-educativa/" target="_blank" >Mira la oferta educativa aqui</a></h3> 
-      <p class="lead" style="text-align: center;">Ubicación: Av Castillo de Chapultepec 562, Tomas Aquino, 22414 Tijuana, B.C.</p> 
+      <h3 class="lead"  style="text-align: center;padding-top:2em;"  ><a  href="https://udetijuana.edu.mx/licenciaturas/" target="_blank" >Mira la oferta educativa aqui</a></h3> 
+      <p class="lead" style="text-align: center;">Ubicaciones.
+CUT Universidad Campus Altamira, Av. J No. 1010 Col Altamira, Tijuana, B.C.
+
+CUT Universidad Campus Oriente, Av. Bernardo O’ Higgins 5951, Tijuana, B.C.</p> 
 
     </div>
   </div>
