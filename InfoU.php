@@ -79,10 +79,10 @@
 <div class="derecha" style="background: #FFFFFF;" >
 <h1 class="display-4" style="text-align: center; padding-top: 1em;  "> Mejores universidades de Tijuana</h1>
 
-<h2  style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >1.CONALEP - Colegio Nacional de Educación Profesional</a> </h2>
-          <h2  style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >2.IPN - Instituto Politécnico Nacional </a> </h2>
-          <h2  style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >3.UABC - Universidad Autónoma de Baja California</a> </h2>
-          <h2  style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >4.UTT - Universidad Tecnológica de Tijuana - UTT  </a> </h2>
+<h3  style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >1.CONALEP - Colegio Nacional de Educación Profesional</a> </h3>
+          <h3  style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >2.IPN - Instituto Politécnico Nacional </a> </h3>
+          <h3  style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >3.UABC - Universidad Autónoma de Baja California</a> </h3>
+          <h3 style="text-align: center; padding-top: 0.7em; " > <a href="main.HTML" class="text-dark" >4.UTT - Universidad Tecnológica de Tijuana - UTT  </a> </h3>
 				
 
     </section>
