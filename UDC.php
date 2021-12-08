@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
-    <title>CUT</title>
+    <title>UTT</title>
   </head>
 
   
@@ -46,32 +46,25 @@
 
 
 
-    <h1 class="display-4" style="text-align: center; padding-top: 1em;">Universidad de Tijuana</h1>
+    <h1 class="display-4" style="text-align: center; padding-top: 1em;">Universidad de las Californias Internacional</h1>
 <div style="padding-top: 5em; padding-bottom: 2em;">
   <div class="container">
     <div class="row">
       <div class="col">
         
-        <p class="lead" style="text-align: center;">La Universidad de Tijuana, acreditada por sus altos estándares de calidad, es una
-institución de educación superior de excelencia académica que propicia el
-desarrollo cultural y educativo de la región. Con la participación de científicos y
-educadores tanto nacionales como internacionales, ocupa una posición de
-vanguardia en la generación de conocimientos para la formación de profesionales
-tolerantes, solidarios, democráticos, con capacidad de liderazgo y de compromiso
-con su entorno social.
-Entre algunas de sus carreras podrás encontrar Licenciatura en Administración, Arquitectura, Ingeniería Industrial y Nutrición. 
-</p>   </div>
+        <p class="lead" style="text-align: center;">La Universidad de las Californias Internacional es una Institución de Nivel Superior que 
+        proporciona un servicio educativo profesional con sentido creativo, innovador, humanista y altamente competitivo con más de 27 años de excelencia académica y calidad total nos respaldan. Te ofrecen un universo de conocimientos avalado por excelentes profesionales, en UDCI encontrarás un amplio sistema de becas para los estudiantes que deseen construir un futuro estable.
+
+Entre su oferta educativa podrás encontrar Licenciatura en 
+Arquitectura, Administración de Empresas, Artes Visuales, Diseño de Moda, Derecho, Ingeniería Civil, y Cinematografía.</p>   </div>
       <div class=" col">
-        <img  src="img/CUT.jpg" class="rounded float-right" alt="..."> 
+        <img  src="img/udci.png" class="rounded float-right" alt="..."> 
         
       </div>
 
       
-      <h3 class="lead"  style="text-align: center;padding-top:2em;"  ><a  href="https://udetijuana.edu.mx/licenciaturas/" target="_blank" >Mira la oferta educativa aqui</a></h3> 
-      <p class="lead" style="text-align: center;">Ubicaciones.
-CUT Universidad Campus Altamira, Av. J No. 1010 Col Altamira, Tijuana, B.C.
-
-CUT Universidad Campus Oriente, Av. Bernardo O’ Higgins 5951, Tijuana, B.C.</p> 
+      <h3 class="lead"  style="text-align: center;padding-top:2em;"  ><a  href="https://uttijuana.edu.mx/carreras/" target="_blank" >Mira la oferta educativa aqui</a></h3> 
+      <p class="lead" style="text-align: center;">Blvd. Federico Benítez 460, Fracc. Los Españoles Tijuana, Baja California, México, 22104</p> 
 
     </div>
   </div>

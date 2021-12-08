@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
-    <title>CUT</title>
+    <title>CESUN</title>
   </head>
 
   
@@ -46,32 +46,26 @@
 
 
 
-    <h1 class="display-4" style="text-align: center; padding-top: 1em;">Instituto Tecnológico de Tijuana</h1>
+    <h1 class="display-4" style="text-align: center; padding-top: 1em;">Centro de Estudios Superiores del Noroeste</h1>
 <div style="padding-top: 5em; padding-bottom: 2em;">
   <div class="container">
     <div class="row">
       <div class="col">
         
-        <p class="lead" style="text-align: center;">La Universidad de Tijuana, acreditada por sus altos estándares de calidad, es una
-institución de educación superior de excelencia académica que propicia el
-desarrollo cultural y educativo de la región. Con la participación de científicos y
-educadores tanto nacionales como internacionales, ocupa una posición de
-vanguardia en la generación de conocimientos para la formación de profesionales
-tolerantes, solidarios, democráticos, con capacidad de liderazgo y de compromiso
-con su entorno social.
-Entre algunas de sus carreras podrás encontrar Licenciatura en Administración, Arquitectura, Ingeniería Industrial y Nutrición. 
+        <p class="lead" style="text-align: center;">Un grupo de empresarios comprometidos con Tijuana se dan a la tarea de fundar el Centro de Estudios Superiores del Noroeste, conocido actualmente por sus siglas CESUN Universidad. Su objetivo, atender la creciente demanda de formación de profesionales especializada en el área de los negocios. En 2009 implementa el modelo educativo por competencias profesionales, siendo la primera universidad en contar con todos sus programas académicos bajo dicho modelo en Baja California.
+
+Sus programas educativos cuentan con modalidades online, ejecutiva y escolarizada; cuenta con tres ingenierías y seis licenciaturas.
 </p>   </div>
       <div class=" col">
-        <img  src="img/CUT.jpg" class="rounded float-right" alt="..."> 
+        <img  src="img/cesun.jpg" class="rounded float-right" alt="..."> 
         
       </div>
 
       
-      <h3 class="lead"  style="text-align: center;padding-top:2em;"  ><a  href="https://udetijuana.edu.mx/licenciaturas/" target="_blank" >Mira la oferta educativa aqui</a></h3> 
-      <p class="lead" style="text-align: center;">Ubicaciones.
-CUT Universidad Campus Altamira, Av. J No. 1010 Col Altamira, Tijuana, B.C.
+      <h3 class="lead"  style="text-align: center;padding-top:2em;"  ><a  href="https://cesun.edu.mx" target="_blank" >Mira la oferta educativa aqui</a></h3> 
+      <p class="lead" style="text-align: center;">Blvd. Cucapáh Sur No. 20100, Fracc. EL Lago, Tijuana, B.C. código. 22210 Tijuana Baja California.
 
-CUT Universidad Campus Oriente, Av. Bernardo O’ Higgins 5951, Tijuana, B.C.</p> 
+Calle Canseco 11998, Porticos De San Antonio, 22666 Tijuana, B.C.</p> 
 
     </div>
   </div>
